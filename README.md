@@ -3,11 +3,10 @@
 
 <p align="left"> 
   Olá! eu sou o Victor Lucas, sou de Manaus (Amazonas), e atualmente trabalho como <strong>Dev. Front-End Jr</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript/Typescript, Sass, Angular +8 e SpringBoot +2.</strong>
+  👨🏽‍💻 Habilidades: <strong>HTML, CSS, JavaScript/Typescript, Sass, Angular +8 e SpringBoot +2.</strong>
 </p>
 
 <p align="left">
@@ -15,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Se quiser trocar uma ideia, aqui vai alguns meio de comunicação: ⤵️
 </p>
 
 <p align="left">
